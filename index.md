@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Sujin Kim's Portfolio
 
-I'm glad you are here. I plan to talk about ...
+I'm very new to programming and exploring github right now.
